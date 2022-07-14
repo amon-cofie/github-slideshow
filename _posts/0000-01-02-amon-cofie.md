@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+##Go Big or Go Home!!
 Use the left arrow to go back!
